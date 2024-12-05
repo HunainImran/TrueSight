@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+.env
+test.py
+BertModel/
+
+
+# Node.js
+node_modules/
+package-lock.json
+
+# Docker
+*.log
+docker-compose.override.yml
+*.docker
+*.env
+
+# IDEs
+.vscode/
+.idea/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/

@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: ./backend
+    container_name: truesight-backend
+    ports:
+      - "5000:5000"
+    volumes:
+      - ./backend/scripts:/app/scripts  # Mount scripts folder for the backend
+    environment:
+      - FLASK_ENV=development
+    depends_on:
+      - frontend  # Ensures backend starts after frontend is up
+
+  frontend:
+    build:
+      context: ./truesight
+    container_name: truesight-frontend
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./truesight:/app  # Mount the frontend directory
+    environment:
+      - NODE_ENV=production
+    depends_on:
+      - backend  # Ensures frontend starts after backend is up
