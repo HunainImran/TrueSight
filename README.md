@@ -1,6 +1,5 @@
 # **Truesight: Phishing Email Detection**
 
-![Truesight Logo](https://via.placeholder.com/150)  
 *Detect phishing attempts in emails with AI-powered analysis.*
 
 ## **Overview**
@@ -28,7 +27,7 @@ This repository contains the backend (for prediction using a fine-tuned BERT mod
 ## **Technologies & Tools**
 Truesight is built with a combination of cutting-edge technologies and frameworks to deliver an efficient and scalable phishing detection system.
 
-![Python Logo](https://via.placeholder.com/30x30) ![Flask Logo](https://via.placeholder.com/30x30) ![React Logo](https://via.placeholder.com/30x30) ![Docker Logo](https://via.placeholder.com/30x30) ![Hugging Face Logo](https://via.placeholder.com/30x30)
+![Python Logo]![image](https://github.com/user-attachments/assets/ac841d8c-6f2a-4d10-a777-dd9f17f32c1b) ![Flask Logo]![image](https://github.com/user-attachments/assets/7596bab6-be11-44fc-b94d-9f1e5ee68482) ![Next Logo]![image](https://github.com/user-attachments/assets/9526d194-f4ef-4832-8fd6-5de778f0790b) ![Docker Logo]![image](https://github.com/user-attachments/assets/79c7405f-b322-4c0f-9903-3c479705da71) ![Hugging Face Logo]![image](https://github.com/user-attachments/assets/b71298ef-65bf-4da9-838f-47796550c17c)
 
 - **Backend**:
   - Python
@@ -37,7 +36,7 @@ Truesight is built with a combination of cutting-edge technologies and framework
   - XGBoost (URL classifier)
   
 - **Frontend**:
-  - React (UI)
+  - Next (UI)
   - Tailwind CSS (styling)
 
 - **Tools**:
@@ -57,21 +56,19 @@ Truesight is built with a combination of cutting-edge technologies and framework
 ## **Demo**
 - **Live Demo**: [Coming Soon]
 - **UI Preview**:  
-  - *Insert Screenshots of your app here*
+  - ![image](https://github.com/user-attachments/assets/52c12daa-57f0-4a0e-9141-73a4a6e5acc2)
+  - ![image](https://github.com/user-attachments/assets/3529dafa-21e8-4698-ab51-e139b4b9d6f6)
+  - ![image](https://github.com/user-attachments/assets/cfe5f4e4-41ea-44d9-9d86-592a191a028a)
+  - ![image](https://github.com/user-attachments/assets/9c1511ee-6775-4fe6-82ba-bcaf65ad09ae)
 
 ---
 
 ## **Evaluation Metrics**
 ### **Classification Report**
-- *Insert your classification report here once the model has been evaluated.*
+- ![image](https://github.com/user-attachments/assets/d68c1635-e00f-4127-9c69-74a13ad0b0f7)
 
 ### **Confusion Matrix**
-- *Insert confusion matrix results here after testing the model.*
-
----
-
-## **Screenshots**
-Insert screenshots of the UI here to give potential users a preview of how Truesight looks.
+- ![image](https://github.com/user-attachments/assets/b88f5372-f386-4716-91a7-4335c351c31d)
 
 ---
 
@@ -154,9 +151,3 @@ If you prefer not to use Docker, you can run Truesight manually by following the
 
 ---
 
-## **Contributors**
-- **Your Name**: Lead Developer
-- **Contributor Name**: Backend Developer (URL model)
-- *Feel free to add more contributors*
-
----
