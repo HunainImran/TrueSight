@@ -27,7 +27,7 @@ This repository contains the backend (for prediction using a fine-tuned BERT mod
 ## **Technologies & Tools**
 Truesight is built with a combination of cutting-edge technologies and frameworks to deliver an efficient and scalable phishing detection system.
 
-![Python Logo]![image](https://github.com/user-attachments/assets/ac841d8c-6f2a-4d10-a777-dd9f17f32c1b) ![Flask Logo]![image](https://github.com/user-attachments/assets/7596bab6-be11-44fc-b94d-9f1e5ee68482) ![Next Logo]![image](https://github.com/user-attachments/assets/2f8fd89c-c66c-4228-90b2-1ed90ed56080) ![Docker Logo]![image](https://github.com/user-attachments/assets/79c7405f-b322-4c0f-9903-3c479705da71) ![Hugging Face Logo]![image](https://github.com/user-attachments/assets/b71298ef-65bf-4da9-838f-47796550c17c)
+![Python Logo]![image](https://github.com/user-attachments/assets/d2970e16-15c9-4893-8c28-7246832938dd) ![Flask Logo]![image](https://github.com/user-attachments/assets/a068546c-5c14-415d-ac5a-90e938f89064) ![Next Logo]![image](https://github.com/user-attachments/assets/2f8fd89c-c66c-4228-90b2-1ed90ed56080) ![Docker Logo]![image](https://github.com/user-attachments/assets/984b25d8-667b-4115-9479-c270f8876774) ![Hugging Face Logo]![image](https://github.com/user-attachments/assets/c9eb0b2d-e20a-4cc6-bd56-75ed1177f86f)
 
 - **Backend**:
   - Python
